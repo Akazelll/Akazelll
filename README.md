@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌱 Constantly learning new technologies and best practices.<br>- 🔨 Skilled in **Next.js**, **Node.js**, **Laravel**, and **Python**.<br>- 🛠️ I enjoy building scalable web apps, contributing to open source, and automating workflows.<br>- 🎯 Focused on performance, clean architecture, and developer experience.
+- 🌱 Constantly learning new technologies and best practices.<br> - 🔨 Skilled in **Next.js**, **Node.js**, **Laravel**, and **Python**.<br> - 🛠️ I enjoy building scalable web apps, contributing to open source, and automating workflows.<br> - 🎯 Focused on performance, clean architecture, and developer experience.
 
 
 ## 🌐 Socials:
