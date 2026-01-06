@@ -2,8 +2,8 @@
 <h3 align="center">A Passionate Fullstack Developer from Demak</h3>
 
 <p align="center">
-  <a href="https://bit.ly/Akazelll">
-    <img src="https://img.shields.io/badge/Portfolio-Check%20it%20out-111111?style=flat&logo=kofi&logoColor=E5E7EB" alt="Portfolio" />
+  <a href="[https://bit.ly/Akazelll](https://bit.ly/Akazelll)">
+    <img src="[https://img.shields.io/badge/Portfolio-Check%20it%20out-111111?style=flat&logo=kofi&logoColor=E5E7EB](https://img.shields.io/badge/Portfolio-Check%20it%20out-111111?style=flat&logo=kofi&logoColor=E5E7EB)" alt="Portfolio" />
   </a>
 </p>
 
@@ -23,13 +23,13 @@
 
 <p align="left">
   <a href="mailto:adamxraga@gmail.com">
-    <img src="https://img.shields.io/badge/Email-adamxraga%40gmail.com-111111?style=flat&logo=gmail&logoColor=E5E7EB" alt="Email" />
+    <img src="[https://img.shields.io/badge/Email-adamxraga%40gmail.com-111111?style=flat&logo=gmail&logoColor=E5E7EB](https://img.shields.io/badge/Email-adamxraga%40gmail.com-111111?style=flat&logo=gmail&logoColor=E5E7EB)" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/adamxraga">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat&logo=linkedin&logoColor=E5E7EB" alt="LinkedIn" />
+  <a href="[https://linkedin.com/in/adamxraga](https://linkedin.com/in/adamxraga)">
+    <img src="[https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat&logo=linkedin&logoColor=E5E7EB](https://img.shields.io/badge/LinkedIn-Connect-111111?style=flat&logo=linkedin&logoColor=E5E7EB)" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/adamxraga">
-    <img src="https://img.shields.io/badge/Instagram-Follow-111111?style=flat&logo=instagram&logoColor=E5E7EB" alt="Instagram" />
+  <a href="[https://instagram.com/adamxraga](https://instagram.com/adamxraga)">
+    <img src="[https://img.shields.io/badge/Instagram-Follow-111111?style=flat&logo=instagram&logoColor=E5E7EB](https://img.shields.io/badge/Instagram-Follow-111111?style=flat&logo=instagram&logoColor=E5E7EB)" alt="Instagram" />
   </a>
 </p>
 
@@ -70,12 +70,20 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=E5E7EB&text_color=E5E7EB&title_color=E5E7EB" alt="Akazelll's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&sideNums=E5E7EB" alt="Akazelll's Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=E5E7EB&title_color=E5E7EB" alt="Top Languages" />
-</p>
+<div align="center">
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)">
+  <img src="[https://github-readme-stats.vercel.app/api?username=Akazelll&show_icons=true&bg_color=111111&title_color=E5E7EB&text_color=E5E7EB&icon_color=E5E7EB&hide_border=true](https://github-readme-stats.vercel.app/api?username=Akazelll&show_icons=true&bg_color=111111&title_color=E5E7EB&text_color=E5E7EB&icon_color=E5E7EB&hide_border=true)" alt="Akazelll's GitHub Stats" />
+</a>
+
+<br/>
+
+<img src="[https://nirzak-streak-stats.vercel.app/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=E5E7EB&sideNums=E5E7EB&background=111111](https://nirzak-streak-stats.vercel.app/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=E5E7EB&sideNums=E5E7EB&background=111111)" alt="Akazelll's Streak" />
+
+<br/>
+
+<a href="[https://github.com/anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&layout=compact&bg_color=111111&title_color=E5E7EB&text_color=E5E7EB&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&layout=compact&bg_color=111111&title_color=E5E7EB&text_color=E5E7EB&hide_border=true)" alt="Top Languages" />
+</a>
+
+</div>
