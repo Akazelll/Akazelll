@@ -1,84 +1,47 @@
-<!--
-Shadcn-like monochrome palette:
-bg: 09090B | fg: FAFAFA | muted: A1A1AA | border: 27272A
--->
-
-<h1 align="left">Adam Raga</h1>
-<p align="left">
-  Builder focused on performance, clean architecture, and developer experience.
-</p>
-
-<p align="left">
-  <a href="https://instagram.com/adamxraga">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-09090B?style=flat&logo=instagram&logoColor=FAFAFA&labelColor=09090B">
-  </a>
-  <a href="https://linkedin.com/in/adamxraga">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-09090B?style=flat&logo=linkedin&logoColor=FAFAFA&labelColor=09090B">
-  </a>
-</p>
-
----
-
-## About
+# 💫 About Me
 - 🌱 Constantly learning new technologies and best practices.
-- 🔨 Working with **Next.js**, **Node.js**, **Laravel**, and **Python**.
+- 🔨 Skilled in **Next.js**, **Node.js**, **Laravel**, and **Python**.
 - 🛠️ I enjoy building scalable web apps, contributing to open source, and automating workflows.
 - 🎯 Focused on performance, clean architecture, and developer experience.
 
 ---
 
-## Tech Stack (Monochrome)
-### Languages
-![C++](https://img.shields.io/badge/C%2B%2B-09090B?style=flat&logo=c%2B%2B&logoColor=FAFAFA&labelColor=09090B)
-![JavaScript](https://img.shields.io/badge/JavaScript-09090B?style=flat&logo=javascript&logoColor=FAFAFA&labelColor=09090B)
-![TypeScript](https://img.shields.io/badge/TypeScript-09090B?style=flat&logo=typescript&logoColor=FAFAFA&labelColor=09090B)
-![Python](https://img.shields.io/badge/Python-09090B?style=flat&logo=python&logoColor=FAFAFA&labelColor=09090B)
-![PHP](https://img.shields.io/badge/PHP-09090B?style=flat&logo=php&logoColor=FAFAFA&labelColor=09090B)
-![Java](https://img.shields.io/badge/Java-09090B?style=flat&logo=openjdk&logoColor=FAFAFA&labelColor=09090B)
-
-### Frameworks & Runtime
-![Next.js](https://img.shields.io/badge/Next.js-09090B?style=flat&logo=next.js&logoColor=FAFAFA&labelColor=09090B)
-![Node.js](https://img.shields.io/badge/Node.js-09090B?style=flat&logo=node.js&logoColor=FAFAFA&labelColor=09090B)
-![Laravel](https://img.shields.io/badge/Laravel-09090B?style=flat&logo=laravel&logoColor=FAFAFA&labelColor=09090B)
-
-### UI / Tooling
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-09090B?style=flat&logo=tailwind-css&logoColor=FAFAFA&labelColor=09090B)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-09090B?style=flat&logo=bootstrap&logoColor=FAFAFA&labelColor=09090B)
-![ESLint](https://img.shields.io/badge/ESLint-09090B?style=flat&logo=eslint&logoColor=FAFAFA&labelColor=09090B)
-![Esbuild](https://img.shields.io/badge/Esbuild-09090B?style=flat&logo=esbuild&logoColor=FAFAFA&labelColor=09090B)
-
-### Database & BaaS
-![MySQL](https://img.shields.io/badge/MySQL-09090B?style=flat&logo=mysql&logoColor=FAFAFA&labelColor=09090B)
-![Oracle](https://img.shields.io/badge/Oracle-09090B?style=flat&logo=oracle&logoColor=FAFAFA&labelColor=09090B)
-![Supabase](https://img.shields.io/badge/Supabase-09090B?style=flat&logo=supabase&logoColor=FAFAFA&labelColor=09090B)
-![Firebase](https://img.shields.io/badge/Firebase-09090B?style=flat&logo=firebase&logoColor=FAFAFA&labelColor=09090B)
-
-### DevOps / Hosting
-![Vercel](https://img.shields.io/badge/Vercel-09090B?style=flat&logo=vercel&logoColor=FAFAFA&labelColor=09090B)
-![Netlify](https://img.shields.io/badge/Netlify-09090B?style=flat&logo=netlify&logoColor=FAFAFA&labelColor=09090B)
-![Nginx](https://img.shields.io/badge/Nginx-09090B?style=flat&logo=nginx&logoColor=FAFAFA&labelColor=09090B)
-![Apache](https://img.shields.io/badge/Apache-09090B?style=flat&logo=apache&logoColor=FAFAFA&labelColor=09090B)
+## 🌐 Socials
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=E5E7EB)](https://instagram.com/adamxraga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=E5E7EB)](https://linkedin.com/in/adamxraga)
 
 ---
 
-## GitHub Stats (Monochrome)
-<p align="left">
-  <img
-    alt="GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=Akazelll&show_icons=true&hide_border=true&bg_color=00000000&title_color=FAFAFA&text_color=A1A1AA&icon_color=FAFAFA"
-  />
-</p>
+## 💻 Tech Stack
+![C++](https://img.shields.io/badge/C%2B%2B-111111?style=flat&logo=c%2B%2B&logoColor=E5E7EB)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=E5E7EB)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=E5E7EB)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=E5E7EB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=E5E7EB)
+![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat&logo=laravel&logoColor=E5E7EB)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat&logo=php&logoColor=E5E7EB)
+![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=E5E7EB)
+![Java](https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=E5E7EB)
 
-<p align="left">
-  <img
-    alt="GitHub Streak"
-    src="https://nirzak-streak-stats.vercel.app/?user=Akazelll&hide_border=true&background=00000000&ring=FAFAFA&fire=FAFAFA&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=A1A1AA"
-  />
-</p>
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css&logoColor=E5E7EB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=E5E7EB)
+![ESLint](https://img.shields.io/badge/ESLint-111111?style=flat&logo=eslint&logoColor=E5E7EB)
 
-<p align="left">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&layout=compact&hide_border=true&bg_color=00000000&title_color=FAFAFA&text_color=A1A1AA"
-  />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=E5E7EB)
+![Oracle](https://img.shields.io/badge/Oracle-111111?style=flat&logo=oracle&logoColor=E5E7EB)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase&logoColor=E5E7EB)
+![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase&logoColor=E5E7EB)
+
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel&logoColor=E5E7EB)
+![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat&logo=netlify&logoColor=E5E7EB)
+![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat&logo=nginx&logoColor=E5E7EB)
+![Apache](https://img.shields.io/badge/Apache-111111?style=flat&logo=apache&logoColor=E5E7EB)
+![Esbuild](https://img.shields.io/badge/Esbuild-111111?style=flat&logo=esbuild&logoColor=E5E7EB)
+![Arduino](https://img.shields.io/badge/Arduino-111111?style=flat&logo=arduino&logoColor=E5E7EB)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=E5E7EB&text_color=E5E7EB&title_color=E5E7EB)
+![](https://nirzak-streak-stats.vercel.app/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&sideNums=E5E7EB)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=E5E7EB&title_color=E5E7EB)
