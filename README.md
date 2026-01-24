@@ -100,7 +100,7 @@ A simple and practical platform for creating and managing digital booklets.
 
 ## 📈 GitHub Metrics
 
-![Metrics](https://github.com/Akazelll/Akazelll/blob/main/github-metrics.svg)
+!![Metrics](./github-metrics.svg)
 
 ---
 
