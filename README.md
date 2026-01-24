@@ -86,12 +86,6 @@ A simple and practical platform for creating and managing digital booklets.
 
 ---
 
-## 🏆 GitHub Highlights
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Akazelll\&theme=darkhub\&no-frame=true\&row=1)
-
----
-
 ## 📊 GitHub Analytics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll\&theme=transparent\&hide_border=true\&show_icons=true\&icon_color=E5E7EB\&text_color=E5E7EB\&title_color=E5E7EB)
