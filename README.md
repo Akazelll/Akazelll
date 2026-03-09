@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&size=22\&duration=3000\&pause=1000\&color=E5E7EB\&center=true\&vCenter=true\&width=600\&lines=Hi+there%2C+I'm+Adam+%F0%9F%91%8B;Computer+Science+Student;Web+Developer;Building+Scalable+Web+Apps;Exploring+ML+%26+Backend+Systems)
 
-# 👋 Hi, I'm Adam
+# 👋 Hi, I'm Raga
 
 🚀 A passionate **Computer Science student & web developer** who enjoys building **clean, scalable, and performant applications**. I love turning ideas into real products, writing maintainable code, and continuously learning new technologies.
 
