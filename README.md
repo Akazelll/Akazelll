@@ -82,11 +82,15 @@ A passionate **Computer Science student & full-stack developer** who enjoys buil
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akazelll&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akazelll/Akazelll/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akazelll/Akazelll/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Akazelll/Akazelll/output/github-snake.svg" />
+</picture>
 
 </div>
 
