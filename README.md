@@ -72,7 +72,7 @@ A passionate **Computer Science student & full-stack developer** who enjoys buil
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=E5E7EB&text_color=E5E7EB&title_color=E5E7EB)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&sideNums=E5E7EB)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&sideNums=E5E7EB)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=E5E7EB&title_color=E5E7EB)
 
@@ -82,9 +82,13 @@ A passionate **Computer Science student & full-stack developer** who enjoys buil
 
 ---
 
-## 📈 GitHub Metrics
+## 🏆 GitHub Trophies
 
-![Metrics](./github-metrics.svg)
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Akazelll&theme=onedark&no-frame=true&row=1&column=6&margin-w=4)
+
+</div>
 
 ---
 
