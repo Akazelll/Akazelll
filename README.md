@@ -116,12 +116,12 @@ SaaS platform for restaurants and cafés — digital menus via QR code, WhatsApp
 ## GitHub Analytics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=4ADE80&text_color=FAFAF7&title_color=4ADE80)
+<!-- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=4ADE80&text_color=FAFAF7&title_color=4ADE80) -->
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Akazelll&theme=transparent&hide_border=true&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=9CA3AF&dates=9CA3AF&sideNums=FAFAF7)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=FAFAF7&title_color=4ADE80)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=FAFAF7&title_color=4ADE80) -->
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akazelll&theme=github-compact&hide_border=true&color=4ADE80&line=4ADE80&point=9CA3AF&bg_color=00000000)
 
