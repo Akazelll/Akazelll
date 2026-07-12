@@ -1,88 +1,135 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E5E7EB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Raga+%F0%9F%91%8B;Computer+Science+Student;Full-Stack+Web+Developer;Building+Scalable+Web+Apps;Exploring+ML+%26+Backend+Systems)
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Akazelll&color=111111&style=flat)](https://github.com/Akazelll)
-[![Instagram](https://img.shields.io/badge/Instagram-111111?style=flat&logo=instagram&logoColor=E5E7EB)](https://instagram.com/adamxraga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin&logoColor=E5E7EB)](https://linkedin.com/in/adamxraga)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B6E4F&height=200&section=header&text=Adam%20Raga&fontSize=52&fontColor=FAFAF7&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CS%20Student&descAlignY=58&descSize=18&descColor=9CA3AF&animation=fadeIn" width="100%"/>
 
 </div>
-
----
-
-## 👋 About Me
-
-A passionate **Computer Science student & full-stack developer** who enjoys building **clean, scalable, and performant applications**. I love turning ideas into real products — writing maintainable code and continuously leveling up with new technologies.
-
-- 🔭 Currently working on **full-stack web & ML-powered projects**
-- 🌱 Deepening knowledge in **system design, backend performance, and deployment**
-- 🤝 Open to **collaboration, learning, and new opportunities**
-- 🎯 Goal: build impactful products & grow as a professional software engineer
-
----
-
-## 💻 Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=E5E7EB)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=E5E7EB)
-![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=E5E7EB)
-![Java](https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=E5E7EB)
-
-**Frameworks & Libraries**
-
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=E5E7EB)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=E5E7EB)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=flat&logo=laravel&logoColor=E5E7EB)
-![Flask](https://img.shields.io/badge/Flask-111111?style=flat&logo=flask&logoColor=E5E7EB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwind-css&logoColor=E5E7EB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-111111?style=flat&logo=bootstrap&logoColor=E5E7EB)
-
-**Database & Backend Services**
-
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat&logo=mysql&logoColor=E5E7EB)
-![Oracle](https://img.shields.io/badge/Oracle-111111?style=flat&logo=oracle&logoColor=E5E7EB)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat&logo=supabase&logoColor=E5E7EB)
-![Firebase](https://img.shields.io/badge/Firebase-111111?style=flat&logo=firebase&logoColor=E5E7EB)
-
-**DevOps & Tools**
-
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat&logo=vercel&logoColor=E5E7EB)
-![Netlify](https://img.shields.io/badge/Netlify-111111?style=flat&logo=netlify&logoColor=E5E7EB)
-![Nginx](https://img.shields.io/badge/Nginx-111111?style=flat&logo=nginx&logoColor=E5E7EB)
-![Apache](https://img.shields.io/badge/Apache-111111?style=flat&logo=apache&logoColor=E5E7EB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=flat&logo=tensorflow&logoColor=E5E7EB)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🌾 [**AgriSmart**](https://github.com/Akazelll/AgriSmart) | AI-powered agriculture assistant for plant disease detection | Python, TensorFlow, Flask, Computer Vision |
-| 📚 [**Digital Library**](https://github.com/Akazelll/DigitalLibrary) | Web-based system for managing and accessing books | Laravel, MySQL, Bootstrap |
-| 📝 [**Bookletku**](https://github.com/Akazelll/Bookletku) | Platform for creating and managing digital booklets | Next.js, Node.js, TailwindCSS |
-
----
-
-## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=E5E7EB&text_color=E5E7EB&title_color=E5E7EB)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=3000&pause=1000&color=4ADE80&center=true&vCenter=true&width=700&lines=Building+web+that+feels+as+good+as+it+works;Full-Stack+Developer+%7C+CS+Student;Turning+ideas+into+real+products;System+thinker%2C+pixel-perfect+builder)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Akazelll&theme=transparent&hide_border=true&ring=E5E7EB&fire=E5E7EB&currStreakLabel=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF&sideNums=E5E7EB)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=E5E7EB&title_color=E5E7EB)
+[![Portfolio](https://img.shields.io/badge/akazelll.my.id-0B6E4F?style=flat-square&logo=safari&logoColor=FAFAF7)](https://www.akazelll.my.id)
+[![Instagram](https://img.shields.io/badge/Instagram-0B6E4F?style=flat-square&logo=instagram&logoColor=FAFAF7)](https://instagram.com/adamxraga)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B6E4F?style=flat-square&logo=linkedin&logoColor=FAFAF7)](https://linkedin.com/in/adamxraga)
+[![Profile Views](https://komarev.com/ghpvc/?username=Akazelll&color=0B6E4F&style=flat-square&label=visitors)](https://github.com/Akazelll)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akazelll&theme=github-compact&hide_border=true&color=E5E7EB&line=E5E7EB&point=9CA3AF)
+</div>
+
+<br/>
+
+<div align="center">
+
+| 10+ Projects | 15+ Stacks | 3+ Years | ∞ Coffee |
+|:---:|:---:|:---:|:---:|
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## About
+
+Computer Science student and full-stack developer who thinks in systems and builds with purpose. I care about clean architecture, performance, and UI that actually feels good to use — not just works.
+
+- Currently building **full-stack web apps & ML-integrated systems**
+- Deepening expertise in **system design, backend performance, and deployment**
+- Open to **collaboration, learning, and new opportunities**
+- Goal: ship impactful products and grow as a professional engineer
+
+---
+
+## Stack
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-0B6E4F?style=flat-square&logo=next.js&logoColor=FAFAF7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B6E4F?style=flat-square&logo=typescript&logoColor=FAFAF7)
+![React](https://img.shields.io/badge/React-0B6E4F?style=flat-square&logo=react&logoColor=FAFAF7)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0B6E4F?style=flat-square&logo=tailwind-css&logoColor=FAFAF7)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0B6E4F?style=flat-square&logo=node.js&logoColor=FAFAF7)
+![Laravel](https://img.shields.io/badge/Laravel-0B6E4F?style=flat-square&logo=laravel&logoColor=FAFAF7)
+![Flask](https://img.shields.io/badge/Flask-0B6E4F?style=flat-square&logo=flask&logoColor=FAFAF7)
+![Python](https://img.shields.io/badge/Python-0B6E4F?style=flat-square&logo=python&logoColor=FAFAF7)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B6E4F?style=flat-square&logo=postgresql&logoColor=FAFAF7)
+![MySQL](https://img.shields.io/badge/MySQL-0B6E4F?style=flat-square&logo=mysql&logoColor=FAFAF7)
+![Supabase](https://img.shields.io/badge/Supabase-0B6E4F?style=flat-square&logo=supabase&logoColor=FAFAF7)
+![Firebase](https://img.shields.io/badge/Firebase-0B6E4F?style=flat-square&logo=firebase&logoColor=FAFAF7)
+
+**Tools & DevOps**
+
+![Vercel](https://img.shields.io/badge/Vercel-0B6E4F?style=flat-square&logo=vercel&logoColor=FAFAF7)
+![Nginx](https://img.shields.io/badge/Nginx-0B6E4F?style=flat-square&logo=nginx&logoColor=FAFAF7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0B6E4F?style=flat-square&logo=tensorflow&logoColor=FAFAF7)
+![Java](https://img.shields.io/badge/Java-0B6E4F?style=flat-square&logo=openjdk&logoColor=FAFAF7)
+
+---
+
+## Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**[SIMKATMAWA](https://github.com/Akazelll/fe-simkatmawa)**
+
+Student activity recapitulation system for UDINUS with Kemdikbud sync, RBAC across 3 roles, verification workflow, and PDF export.
+
+![Next.js](https://img.shields.io/badge/Next.js-0B6E4F?style=flat-square&logo=next.js&logoColor=FAFAF7)
+![TypeScript](https://img.shields.io/badge/TypeScript-0B6E4F?style=flat-square&logo=typescript&logoColor=FAFAF7)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B6E4F?style=flat-square&logo=tailwind-css&logoColor=FAFAF7)
+
+</td>
+<td width="33%" valign="top">
+
+**[AgriSmart](https://github.com/Akazelll/AgriSmart)**
+
+AI-powered smart farming platform — rice disease detection via computer vision, real-time weather, farm financial management, and analytics dashboard.
+
+![Next.js](https://img.shields.io/badge/Next.js-0B6E4F?style=flat-square&logo=next.js&logoColor=FAFAF7)
+![Flask](https://img.shields.io/badge/Flask-0B6E4F?style=flat-square&logo=flask&logoColor=FAFAF7)
+![Supabase](https://img.shields.io/badge/Supabase-0B6E4F?style=flat-square&logo=supabase&logoColor=FAFAF7)
+
+</td>
+<td width="33%" valign="top">
+
+**[Bookletku](https://github.com/Akazelll/Bookletku)**
+
+SaaS platform for restaurants and cafés — digital menus via QR code, WhatsApp checkout, drag-and-drop menu management, and analytics dashboard.
+
+![Next.js](https://img.shields.io/badge/Next.js-0B6E4F?style=flat-square&logo=next.js&logoColor=FAFAF7)
+![Supabase](https://img.shields.io/badge/Supabase-0B6E4F?style=flat-square&logo=supabase&logoColor=FAFAF7)
+![Tailwind](https://img.shields.io/badge/Tailwind-0B6E4F?style=flat-square&logo=tailwind-css&logoColor=FAFAF7)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akazelll&theme=transparent&hide_border=true&show_icons=true&icon_color=4ADE80&text_color=FAFAF7&title_color=4ADE80)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Akazelll&theme=transparent&hide_border=true&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80&sideLabels=9CA3AF&dates=9CA3AF&sideNums=FAFAF7)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akazelll&theme=transparent&hide_border=true&layout=compact&text_color=FAFAF7&title_color=4ADE80)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Akazelll&theme=github-compact&hide_border=true&color=4ADE80&line=4ADE80&point=9CA3AF&bg_color=00000000)
+
+</div>
+
+---
+
+## Contribution Snake
 
 <div align="center">
 
@@ -96,4 +143,12 @@ A passionate **Computer Science student & full-stack developer** who enjoys buil
 
 ---
 
-> *"Great software is built from thoughtful decisions — I enjoy optimizing every small detail."*
+<div align="center">
+
+*"Great software is built from thoughtful decisions — I enjoy optimizing every small detail."*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B6E4F&height=120&section=footer&fontColor=FAFAF7&animation=fadeIn" width="100%"/>
+
+</div>
